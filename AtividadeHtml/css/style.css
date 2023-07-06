@@ -44,6 +44,11 @@ body {
     text-align: justify;
 }
 
+.cursos img{
+    width: 50px;
+    height: 30px;
+}
+
 
 .container_form {
     width: 700px;
