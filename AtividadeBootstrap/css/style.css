@@ -11,10 +11,10 @@ nav ul li a:hover{
     /*color: blue!important;*/
 }
 
-.card-header, .bloco-oferecemos, footer{
+.card-header, .bloco-oferecemos, footer, h2{
     color: #FFF;
 }
 
 .oferecemos i{
-    color: blueviolet;
+    color: green;
 }
